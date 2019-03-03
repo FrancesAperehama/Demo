@@ -1,0 +1,3 @@
+print("hi")
+x=inputer"enter your name")
+print(x)
